@@ -1,0 +1,36 @@
+# Virtual environment
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+.Python
+*.egg-info/
+.eggs/
+*.egg
+dist/
+build/
+
+# Generated model artifacts (retrain.py / train.py)
+artifact/
+
+# Optional: uncomment if data is large or sensitive
+# data/
+
+# IDE / editor
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment / secrets
+.env
+.env.local
+*.pem

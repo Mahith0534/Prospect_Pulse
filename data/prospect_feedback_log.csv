@@ -1,0 +1,4 @@
+Company_ID,Company_Name,Industry,Annual_Revenue_M,Website_Visits_30d,Whitepaper_Downloads,Credit_Score_Proxy,Conversion_Probability,Converted
+NEW_1043,Prospect_42,Healthcare,87.58,39,3,726,0.9995592032649327,1
+NEW_1063,Prospect_62,Healthcare,49.0,40,3,809,0.9986518117078494,0
+NEW_1014,Prospect_13,Consulting,72.95,48,0,820,0.998927764005776,1
